@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("kaas/kaas2.png");
+    background-position: center center;
+    overflow-y: hidden;
+    color: yellow;
+    text-shadow: 2px 2px black;
+    font-size: 100px;
+}
+
+h1 {
+    color: yellow;
+    text-shadow: 2px 2px black;
+}
+
+
