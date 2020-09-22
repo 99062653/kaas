@@ -32,7 +32,7 @@ if(vraag == "ja"){
         if(vraag == "ja"){
             document.write("Je hebt Blue de Rochbaron");
         }else{
-            document.write("Foume d'Ambart");}
+            document.write("Je hebt Foume d'Ambart");}
         }else{
         stelVraag("Heef de kaas een korst?");
         if(vraag == "ja"){
