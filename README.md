@@ -1,0 +1,6 @@
+# kaas
+voor school (overbodig) function leren
+
+CHECK DIE KAAS NEEF JAJAJAJAJAJAAJAJAJAJAJAJ 
+
+GEMAAKT DOOR RICK HUISMAN!!!1111
