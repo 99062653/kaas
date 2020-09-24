@@ -1,8 +1,7 @@
 //ricks game
 var vraag;
 function stelVraag(v){  
-    vraag = prompt(v);
-    return vraag;
+    return prompt(v);
 }
 
 stelVraag("Is de kaas geel?");
